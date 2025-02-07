@@ -2,7 +2,7 @@
 
 ## 1. Address Format:
 - IPv4 addresses are 32-bit addresses, which are divided into four octets (each 8 bits).
-- These addresses are usually represented in dotted decimal format, where each octet is converted to decimal and separated by periods (e.g., 192.168.1.1).
+- These addresses are usually represented in dotted decimal format, where each octet is converted to decimal and separated by periods.
   
   **Example**: 192.168.1.1
 
