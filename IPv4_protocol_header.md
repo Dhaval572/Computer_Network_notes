@@ -51,8 +51,3 @@ The **IPv4 (Internet Protocol version 4)** header is part of the packet that hel
 
 ## 14. Padding (variable length)
 - Used to ensure that the header ends on a 32-bit boundary. Padding is added if necessary to align the header properly.
-
----
-
-## Example IPv4 Header Structure (in simplified form)
-
